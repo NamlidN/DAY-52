@@ -1,0 +1,29 @@
+.users {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+ 
+  
+
+  color: black;
+  text-align: center;
+}
+
+.user {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+ flex-direction: column;
+  background-color: rgb(238, 123, 123);
+  margin: 1rem;
+  color: black;
+
+
+}
+img{
+ 
+  width: 100%;
+ 
+}
